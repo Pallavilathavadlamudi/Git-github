@@ -100,7 +100,8 @@
     > It's like a web of changes — you can branch, merge, experiment, and explore.
     > It’s flexible and safe — you don’t lose work as long as you commit regularly.
 
-    ![Click here to view the image]<img src="https://github.com/Pallavilathavadlamudi/Git-github/blob/main/Assets/EXAMPLE.png">
-    ![Click here to view the image]<https://github.com/Pallavilathavadlamudi/Git-github/blob/main/Assets/EXAMPLE.png>
+    [Click here to view the image](https://github.com/Pallavilathavadlamudi/Git-github/blob/main/Assets/EXAMPLE.png)
+    <img src="https://github.com/Pallavilathavadlamudi/Git-github/blob/main/Assets/EXAMPLE.png">
+    
 
 
