@@ -114,7 +114,7 @@ Git is the engine. GitHub is the car with extra features, built around that engi
 
     It's recommended to switch to the master branch before merging any other branch into it. This ensures you're merging changes into the most up-to-date version of the main project.
 
-        $git merge <branch name>
+        $ git merge <branch name>
 
 
 # Working with github
