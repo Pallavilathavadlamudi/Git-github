@@ -56,6 +56,21 @@
     ✅ Collaborate with others and share changes.
     ✅ Combine changes from different team members (merge).
 
+    Modified:
+        When a file is changed, added, or deleted, Git considers it modified. These changes are unstaged initially.
+    Staging:
+        You stage specific modified files that you want to include in the next commit.
+        ➤ Think of staging as preparing your changes for a snapshot.
+    Committing:
+        You then commit the staged changes.
+        ➤ A commit is a permanent snapshot of your staged files at that moment.
+    History Tracking:
+        Git keeps a full history of all commits. You can:
+        ➤ View the entire change history.
+        ➤ Revert to any previous commit if needed.
+    Efficient Storage:
+        Git does not save a full copy of all files in every commit.
+        ➤ Instead, it saves only the changes (diffs) made since the last commit — making Git very efficient!
 
 8. Consider a example: 
 
@@ -100,7 +115,8 @@
     > It's like a web of changes — you can branch, merge, experiment, and explore.
     > It’s flexible and safe — you don’t lose work as long as you commit regularly.
 
-    [Click here to view the image](https://github.com/Pallavilathavadlamudi/Git-github/blob/main/Assets/EXAMPLE.png)
+    
+    
     <img src="https://github.com/Pallavilathavadlamudi/Git-github/blob/main/Assets/EXAMPLE.png">
     
 
