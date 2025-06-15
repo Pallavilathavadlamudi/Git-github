@@ -295,11 +295,11 @@ Connecting Your Local Repo to GitHub
     Git Help 
         If you are having trouble remembering commands or options for commands, you can use Git help.
 
-        See all the available options for the specific command -
+        See all the available options for the specific command 
             
             $ git <command> -help
 
-        See all possible commands -
+        See all possible commands 
             
             $ git help --all
         
