@@ -125,4 +125,4 @@ Git is the engine. GitHub is the car with extra features, built around that engi
     * A local repository is the one stored on your own computer.
     * A remote repository is hosted on a remote server, like GitHub, GitLab, or Bitbucket.
 
-    <img src = " " >
+<img src = "https://github.com/Pallavilathavadlamudi/Git-github/blob/main/Assets/githibrepo.png" >
